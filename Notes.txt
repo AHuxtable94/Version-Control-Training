@@ -9,4 +9,5 @@ To make a local git repository:
 3 - Initialise Name as a git repository (git init)
 
 After making changes to a file and saving it we need to:
-1 - 
+1 - add the file to a 'staging area' where files are watched by git (git add Name)
+2 - when you're ready add the changes to the repository as a group (git commit)
