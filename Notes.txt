@@ -1,4 +1,12 @@
 # Author: Alexandra Huxtable
 # Date: 2020-06-15
 
-Notes on Github version control:
+Notes on Github version control
+
+To make a local git repository:
+1 - make a directory on the desktop (mkdir Name)
+2 - move into that directory (cd Name)
+3 - Initialise Name as a git repository (git init)
+
+After making changes to a file and saving it we need to:
+1 - 
