@@ -1,0 +1,4 @@
+# Author: Alexandra Huxtable
+# Date: 2020-06-15
+
+Notes on Github version control:
