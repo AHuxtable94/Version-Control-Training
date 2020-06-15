@@ -13,4 +13,5 @@ After making changes to a file and saving it we need to:
 2 - when you're ready add the changes to the repository as a group (git commit)
 
 Checking the changes you've made:
-1 - 
+1 - 'git diff' lists changes between the unadded file and the repository
+2 - 'git diff --staged' changes between repository and staged version

@@ -1,0 +1,4 @@
+# Author: Alexandra Huxtable
+# Date: 2020-0-15
+
+Committing Multiple Files - a file to commit along with changes to Notes.txt
