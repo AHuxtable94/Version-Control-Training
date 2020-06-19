@@ -15,3 +15,5 @@ After making changes to a file and saving it we need to:
 Checking the changes you've made:
 1 - 'git diff' lists changes between the unadded file and the repository
 2 - 'git diff --staged' changes between repository and staged version
+
+Lauren has cloned your repository and added a line.
