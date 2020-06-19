@@ -15,3 +15,7 @@ After making changes to a file and saving it we need to:
 Checking the changes you've made:
 1 - 'git diff' lists changes between the unadded file and the repository
 2 - 'git diff --staged' changes between repository and staged version
+
+Annoying people by adding new content at the same time:
+Clone repository and add text
+Be the first one to push
